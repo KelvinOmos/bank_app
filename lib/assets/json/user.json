@@ -79,6 +79,14 @@
             "email": "olivia.martinez@newtronic.com",
             "password": "password12345",
             "image": "https://www.hawtcelebs.com/wp-content/uploads/2011/10/Olivia-Wilde-at-In-Time-Premiere-4.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Kelvin Omosebi",
+            "username": "kelvin",
+            "email": "kelvin@bankapp.com",
+            "password": "password12345",
+            "image": "https://www.hawtcelebs.com/wp-content/uploads/2011/10/Olivia-Wilde-at-In-Time-Premiere-4.jpg"
         }
     ]
 }
